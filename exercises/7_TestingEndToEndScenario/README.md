@@ -46,7 +46,7 @@ Follow this tutorial on [Agent Management Settings](https://developers.sap.com/t
 ![](images/ss5.png)
 
 5. In the <b>create</b> tab, open the binding menu for <b> Request body mapper</b>.<br><br>
-![](images/ss6.png)
+![](images/ss6_update.png)
 
 6. Open the formula editor. Enter the following formula:
 
