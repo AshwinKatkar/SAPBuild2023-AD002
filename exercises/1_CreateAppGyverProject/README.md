@@ -143,7 +143,7 @@ Now, your application will be connected to Document Management System and SAP Pr
 ![](images/40.png)
 
 6. Under <b>SAP AppGyver classic data entities</b>, click on <b>CREATE DATA ENTITY</b> and select <b>SAP BTP destination REST API integration</b>.<br><br>
-![](images/41.png)
+![](images/41_update.png)
 
 7. As the <b>BTP destination name</b>, select <b>AppGyver_SPA</b>.<br><br>
 ![](images/122.png)
