@@ -55,9 +55,11 @@ In this exercise you will learn:
     |  `employeeName`   | string
     |  `employeeMail`   | string
     |  `objectID`       | string
+    
+    **Apply** changes.
 
     ![04](./images/009a_updated.png)
-    
+
     **Apply** changes.
 
 
@@ -75,11 +77,11 @@ In this exercise you will learn:
      
      Choose **Add a Business project dependency** 
 
-     ![04](./images/100a.png)
+     ![04](./images/100a_updated.png)
 
 9. Under **Package**, select **Invoice Approval Process - bhushan.dubey**.
 
-    ![04](./images/014.png)
+    ![04](./images/014_updated.png)
 
 10. Select **Add** button.
 
