@@ -58,7 +58,7 @@ In this exercise you will learn:
 
     **Apply** changes.
 
-    ![04](./images/009a_updated.png.png)
+    ![04](./images/009a_updated.png)
 
     **(<b>add one more input objectID</b>)**
     ![04](./images/009b.png)
