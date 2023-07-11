@@ -56,12 +56,10 @@ In this exercise you will learn:
     |  `employeeMail`   | string
     |  `objectID`       | string
 
+    ![04](./images/009a_updated.png)
+    
     **Apply** changes.
 
-    ![04](./images/009a_updated.png)
-
-    **(<b>add one more input objectID</b>)**
-    ![04](./images/009b.png)
 
 6. Select Project Properties.
 
