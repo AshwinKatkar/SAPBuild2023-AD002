@@ -46,7 +46,7 @@ In this exercise you will learn:
 
     ![04](./images/008a.png)
 
-5. Configure four inputs. Enter the following names and types:
+5. Configure five inputs. Enter the following names and types:
 
     |  **Name**    | **Type**
     |  :------------- | :-------------
@@ -58,7 +58,7 @@ In this exercise you will learn:
 
     **Apply** changes.
 
-    ![04](./images/009a.png)
+    ![04](./images/009a_updated.png.png)
 
     **(<b>add one more input objectID</b>)**
     ![04](./images/009b.png)
